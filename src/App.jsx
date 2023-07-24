@@ -1,4 +1,4 @@
-import Actual from "./Page/Weather"
+import Weather from "./Page/Weather"
 
 
 
@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
    
-    <Actual/>
+    <Weather/>
     
     </>
    
